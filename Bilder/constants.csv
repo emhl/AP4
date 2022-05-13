@@ -1,0 +1,12 @@
+Temperature,speed of sound,adiabatenkonst.,degrees of freedom
+\SI{62 \pm 2}{\celsius},\SI{283.84 \pm 0.88}{\m\per\s},\SI{1.2724 \pm 0.0109}{},\SI{7.34 \pm 0.29}{}
+\SI{54.5 \pm 2}{\celsius},\SI{281.14 \pm 0.88}{\m\per\s},\SI{1.2769 \pm 0.0112}{},\SI{7.22 \pm 0.29}{}
+\SI{50 \pm 1}{\celsius},\SI{279.1 \pm 0.88}{\m\per\s},\SI{1.2759 \pm 0.009}{},\SI{7.25 \pm 0.24}{}
+\SI{46 \pm 1}{\celsius},\SI{277.71 \pm 0.88}{\m\per\s},\SI{1.2791 \pm 0.009}{},\SI{7.17 \pm 0.23}{}
+\SI{39.5 \pm 2}{\celsius},\SI{275.67 \pm 0.88}{\m\per\s},\SI{1.2866 \pm 0.0116}{},\SI{6.98 \pm 0.28}{}
+\SI{35 \pm 1}{\celsius},\SI{273.31 \pm 0.88}{\m\per\s},\SI{1.2831 \pm 0.0092}{},\SI{7.06 \pm 0.23}{}
+\SI{31 \pm 1}{\celsius},\SI{271.87 \pm 0.88}{\m\per\s},\SI{1.2864 \pm 0.0093}{},\SI{6.98 \pm 0.23}{}
+\SI{22 \pm 1}{\celsius},\SI{269.32 \pm 0.88}{\m\per\s},\SI{1.3008 \pm 0.0096}{},\SI{6.65 \pm 0.21}{}
+\SI{17.5 \pm 1}{\celsius},\SI{267.13 \pm 0.88}{\m\per\s},\SI{1.2995 \pm 0.0096}{},\SI{6.68 \pm 0.22}{}
+\SI{9.8 \pm 1}{\celsius},\SI{262.9 \pm 0.88}{\m\per\s},\SI{1.293 \pm 0.0098}{},\SI{6.83 \pm 0.23}{}
+\SI{4.5 \pm 1}{\celsius},\SI{261.25 \pm 0.88}{\m\per\s},\SI{1.3011 \pm 0.0099}{},\SI{6.64 \pm 0.22}{}

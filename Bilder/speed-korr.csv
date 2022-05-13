@@ -1,0 +1,12 @@
+Temperature,"$c_{0,1}$","$c_{0,2}$","$c_{0,3}$","$c_{0,5}$"
+\SI{62 \pm 2}{\celsius},\SI{286.84 \pm 2.97}{\m\per\s},\SI{283.4 \pm 1.49}{\m\per\s},\SI{282.35 \pm 0.99}{\m\per\s},\SI{282.76 \pm 0.6}{\m\per\s}
+\SI{54.5 \pm 2}{\celsius},\SI{283.93 \pm 2.97}{\m\per\s},\SI{281.94 \pm 1.49}{\m\per\s},\SI{279.43 \pm 0.99}{\m\per\s},\SI{279.26 \pm 0.6}{\m\per\s}
+\SI{50 \pm 1}{\celsius},\SI{283.93 \pm 2.97}{\m\per\s},\SI{279.02 \pm 1.49}{\m\per\s},\SI{276.51 \pm 0.99}{\m\per\s},\SI{276.92 \pm 0.6}{\m\per\s}
+\SI{46 \pm 1}{\celsius},\SI{281.01 \pm 2.97}{\m\per\s},\SI{277.56 \pm 1.49}{\m\per\s},\SI{276.51 \pm 0.99}{\m\per\s},\SI{275.75 \pm 0.6}{\m\per\s}
+\SI{39.5 \pm 2}{\celsius},\SI{278.1 \pm 2.97}{\m\per\s},\SI{277.56 \pm 1.49}{\m\per\s},\SI{273.59 \pm 0.99}{\m\per\s},\SI{273.41 \pm 0.6}{\m\per\s}
+\SI{35 \pm 1}{\celsius},\SI{275.19 \pm 2.97}{\m\per\s},\SI{273.19 \pm 1.49}{\m\per\s},\SI{272.62 \pm 0.99}{\m\per\s},\SI{272.24 \pm 0.6}{\m\per\s}
+\SI{31 \pm 1}{\celsius},\SI{275.19 \pm 2.97}{\m\per\s},\SI{271.73 \pm 1.49}{\m\per\s},\SI{270.67 \pm 0.99}{\m\per\s},\SI{269.91 \pm 0.6}{\m\per\s}
+\SI{22 \pm 1}{\celsius},\SI{272.28 \pm 2.97}{\m\per\s},\SI{270.27 \pm 1.49}{\m\per\s},\SI{267.75 \pm 0.99}{\m\per\s},\SI{266.98 \pm 0.6}{\m\per\s}
+\SI{17.5 \pm 1}{\celsius},\SI{272.28 \pm 2.97}{\m\per\s},\SI{267.35 \pm 1.49}{\m\per\s},\SI{264.83 \pm 0.99}{\m\per\s},\SI{264.06 \pm 0.6}{\m\per\s}
+\SI{9.8 \pm 1}{\celsius},\SI{266.45 \pm 2.97}{\m\per\s},\SI{261.52 \pm 1.49}{\m\per\s},\SI{261.91 \pm 0.99}{\m\per\s},\SI{261.72 \pm 0.6}{\m\per\s}
+\SI{4.5 \pm 1}{\celsius},\SI{263.54 \pm 2.97}{\m\per\s},\SI{261.52 \pm 1.49}{\m\per\s},\SI{259.97 \pm 0.99}{\m\per\s},\SI{259.97 \pm 0.6}{\m\per\s}

@@ -1,0 +1,12 @@
+Temperature,$f_1$,$f_2$,$f_3$,$f_5$
+\SI{62 \pm 2}{\celsius},\SI{145.02 \pm 1.5}{\hertz},\SI{285.64 \pm 1.5}{\hertz},\SI{426.27 \pm 1.5}{\hertz},\SI{710.45 \pm 1.5}{\hertz}
+\SI{54.5 \pm 2}{\celsius},\SI{143.55 \pm 1.5}{\hertz},\SI{284.18 \pm 1.5}{\hertz},\SI{421.88 \pm 1.5}{\hertz},\SI{701.66 \pm 1.5}{\hertz}
+\SI{50 \pm 1}{\celsius},\SI{143.55 \pm 1.5}{\hertz},\SI{281.25 \pm 1.5}{\hertz},\SI{417.48 \pm 1.5}{\hertz},\SI{695.8 \pm 1.5}{\hertz}
+\SI{46 \pm 1}{\celsius},\SI{142.09 \pm 1.5}{\hertz},\SI{279.79 \pm 1.5}{\hertz},\SI{417.48 \pm 1.5}{\hertz},\SI{692.87 \pm 1.5}{\hertz}
+\SI{39.5 \pm 2}{\celsius},\SI{140.62 \pm 1.5}{\hertz},\SI{279.79 \pm 1.5}{\hertz},\SI{413.09 \pm 1.5}{\hertz},\SI{687.01 \pm 1.5}{\hertz}
+\SI{35 \pm 1}{\celsius},\SI{139.16 \pm 1.5}{\hertz},\SI{275.39 \pm 1.5}{\hertz},\SI{411.62 \pm 1.5}{\hertz},\SI{684.08 \pm 1.5}{\hertz}
+\SI{31 \pm 1}{\celsius},\SI{139.16 \pm 1.5}{\hertz},\SI{273.93 \pm 1.5}{\hertz},\SI{408.69 \pm 1.5}{\hertz},\SI{678.22 \pm 1.5}{\hertz}
+\SI{22 \pm 1}{\celsius},\SI{137.7 \pm 1.5}{\hertz},\SI{272.46 \pm 1.5}{\hertz},\SI{404.3 \pm 1.5}{\hertz},\SI{670.9 \pm 1.5}{\hertz}
+\SI{17.5 \pm 1}{\celsius},\SI{137.7 \pm 1.5}{\hertz},\SI{269.53 \pm 1.5}{\hertz},\SI{399.9 \pm 1.5}{\hertz},\SI{663.57 \pm 1.5}{\hertz}
+\SI{9.8 \pm 1}{\celsius},\SI{134.77 \pm 1.5}{\hertz},\SI{263.67 \pm 1.5}{\hertz},\SI{395.51 \pm 1.5}{\hertz},\SI{657.71 \pm 1.5}{\hertz}
+\SI{4.5 \pm 1}{\celsius},\SI{133.3 \pm 1.5}{\hertz},\SI{263.67 \pm 1.5}{\hertz},\SI{392.58 \pm 1.5}{\hertz},\SI{653.32 \pm 1.5}{\hertz}
