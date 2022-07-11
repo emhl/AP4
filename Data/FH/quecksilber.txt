@@ -1,0 +1,6 @@
+Hg1: T 160(1) grad 
+Hg2: T 170(1) grad
+Hg3: T 180(1) grad
+Hg4: T 190(1) grad
+
+Gitterabstand 1,1(1) cm

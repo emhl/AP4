@@ -1,0 +1,5 @@
+Temperatur,1. Ord,2. Ord,3. Ord,4. Ord,5. Ord,6. Ord
+160°C,\SI{8.1 \pm 0.8}{\volt},\SI{13.4 \pm 0.8}{\volt},\SI{18.6 \pm 0.8}{\volt},\SI{23.8 \pm 0.8}{\volt},\SI{29.1 \pm 0.8}{\volt}
+170°C,\SI{8 \pm 0.8}{\volt},\SI{13.2 \pm 0.8}{\volt},\SI{18.2 \pm 0.8}{\volt},\SI{23.4 \pm 0.8}{\volt},\SI{28.5 \pm 0.8}{\volt}
+180°C und 190°C,\SI{6.6 \pm 0.8}{\volt},\SI{11.6 \pm 0.8}{\volt},\SI{16.2 \pm 0.8}{\volt},\SI{21.2 \pm 0.8}{\volt},\SI{26.2 \pm 0.8}{\volt},\SI{31.2 \pm 0.8}{\volt}
+
